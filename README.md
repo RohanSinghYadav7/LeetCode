@@ -1,5 +1,5 @@
 # LeetCode
-DSA solving repo
+DSA Solving / Tracking Repo
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
