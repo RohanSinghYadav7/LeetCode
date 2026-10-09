@@ -7,6 +7,7 @@ DSA Solving / Tracking Repo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,12 @@ DSA Solving / Tracking Repo
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
