@@ -20,6 +20,7 @@ DSA Solving / Tracking Repo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -28,8 +29,13 @@ DSA Solving / Tracking Repo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/RohanSinghYadav7/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
