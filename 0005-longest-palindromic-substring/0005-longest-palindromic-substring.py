@@ -1,6 +1,6 @@
 class Solution:
     def longestPalindrome(self, s: str) -> str:
-        t = "#" + "#".join(s) + "#"
+        t = '#' + '#'.join(s) + '#'
         n = len(t)
         p = [0] * n
         center = right = 0
@@ -12,11 +12,9 @@ class Solution:
             if i < right:
                 p[i] = min(right - i, p[mirror])
 
-            while (
-                i - p[i] - 1 >= 0
-                and i + p[i] + 1 < n
-                and t[i - p[i] - 1] == t[i + p[i] + 1]
-            ):
+            while (i - p[i] - 1 >= 0 and
+                   i + p[i] + 1 < n and
+                   t[i - p[i] - 1] == t[i + p[i] + 1]):
                 p[i] += 1
 
             if i + p[i] > right:
@@ -26,4 +24,4 @@ class Solution:
                 best_center, best_len = i, p[i]
 
         start = (best_center - best_len) // 2
-        return s[start : start + best_len]
+        return s[start:start + best_len]
